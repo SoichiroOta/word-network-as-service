@@ -1,0 +1,14 @@
+{  
+    "directed": false,
+    "style": "seaborn",
+    "node_color": "#BC002D",
+    "max_node_size": 256,
+    "figsize": [4, 4],
+    "width": 0.5,
+    "font_family": "Source Han Sans",
+    "font_size": 2,
+    "font_color": "black",
+    "font_weight": "bold",
+    "edge_vmin": 0.0,
+    "alpha": 1.0
+}
